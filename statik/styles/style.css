@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 10;
+    box-sizing: border-box;
+    background: rgb(245, 241, 241);
+    font-family: Arial, sans-serif
+}
+
+h1 {
+    margin: 20px;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+
+}
+
+code {
+    color: brown
+}
+
+span {
+    color: black;
+    background: rgb(223, 220, 220);
+
+}
+
+pre {
+    background: rgb(223, 220, 220);
+    padding-top: 20px;
+
+}
