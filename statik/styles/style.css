@@ -3,7 +3,7 @@
     margin: 10;
     box-sizing: border-box;
     background: rgb(245, 241, 241);
-    font-family: Arial, sans-serif
+    font-family: monospace;
 }
 
 h1 {
@@ -31,3 +31,18 @@ pre {
     padding-top: 20px;
 
 }
+
+footer>p {
+    display: inline;
+}
+
+li {
+    display: inline;
+    background-color: rgb(218, 218, 223);
+    color: cadetblue;
+}
+
+li:nth-child(1) {
+    color: black;
+    background: rgb(245, 241, 241);
+   }
